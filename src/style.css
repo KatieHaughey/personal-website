@@ -36,6 +36,10 @@ p {
   text-align: center;
 }
 
+.app-title {
+  margin-top: 20px;
+}
+
 .navigation-links {
   display: flex;
   margin-top: 40px;
